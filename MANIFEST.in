@@ -1,0 +1,4 @@
+graft statistic
+global-exclude *.pyc
+include README.md
+
